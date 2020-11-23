@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/alecthomas/template"
-	"github.com/swaggo/swag"
+	"github.com/krystian-kulgawczuk-pr/swag"
 )
 
 var doc = `{
